@@ -1,21 +1,24 @@
 // This code is for the sweet 4x4 badge addon
-#include <Adafruit_NeoPixel.h>
-#include <Badge2020_TFT.h>
-Badge2020_TFT tft;
+// It is crappy, but it works
+// This code is only to be used to connect the Fri3d Camp 2022 badge to the macropad
 
-#include <BleKeyboard.h>
+#include <Adafruit_NeoPixel.h> //neopixel lib
+#include <Badge2020_TFT.h> //fri3d badge TFT lib
+#include <BleKeyboard.h> //blekeyboard lib
 // This library is for using BLE HID with your ESP32
 // 
 // This is not availble on the library manager so
 // needs to be installed from Github
 // https://github.com/T-vK/ESP32-BLE-Keyboard
 
-#include <Keypad.h>
+#include <Keypad.h> //keypad lib
 // This library is for interfacing with the 4x4 Matrix
 // 
 // Can be installed from the library manager, search for "keypad"
 // and install the one by Mark Stanley and Alexander Brevig
 // https://playground.arduino.cc/Code/Keypad/ - https://github.com/Chris--A/Keypad
+
+Badge2020_TFT tft; //initialise TFT
 
 const byte ROWS = 4; //four rows
 const byte COLS = 4; //four columns
@@ -36,30 +39,30 @@ byte rowPins[COLS] = {15,14,0,32}; //connect the row pinouts to the columns of t
 
 Keypad keypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
 
-// First param is name
+// First param is name, choose something unique
 // Second is manufacturer
 // Third is initial battery level
 BleKeyboard bleKeyboard("Sweet4x4", "Fri3d", 100);
 
-#define LEDPIN 12
-#define LEDPIN_INT 2
+#define LEDPIN 12 //leds of the 4x4 addon
+#define LEDPIN_INT 2 //internal leds of the fri3d badge
 #define NUMPIXELS 9
 #define NUMPIXELS_INT 5
 
-Adafruit_NeoPixel strip(NUMPIXELS, LEDPIN, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel strip_int(NUMPIXELS, LEDPIN_INT, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel strip(NUMPIXELS, LEDPIN, NEO_GRB + NEO_KHZ800); //strip for the 4x4 leds
+Adafruit_NeoPixel strip_int(NUMPIXELS, LEDPIN_INT, NEO_GRB + NEO_KHZ800); //strip for the internal badge leds
 uint32_t warmwhite = strip.Color(255, 191, 0);
 
 void setup() {
  // Serial.begin(9600);
   bleKeyboard.begin();
   pinMode (0, OUTPUT);
-  strip.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
-  strip_int.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
+  strip.begin(); // INITIALIZE NeoPixel strip 4x4 keyb
+  strip_int.begin(); // INITIALIZE NeoPixel strip internal badge
   strip.setBrightness(10);
   strip_int.setBrightness(10);
 
-  tft.init(240, 240);
+  tft.init(240, 240); //init tft
   tft.setRotation( 2 );
 
   pinMode( BADGE2020_BACKLIGHT, OUTPUT );
