@@ -1,4 +1,15 @@
-# Fri3d_Sweet4x4
+# Sweet4x4 REV02
+
+[Manual on how to assemble can be found here](https://fri3dcamp.github.io/badge_2024/sweet4x4/) Revision `02` no longer requires the Fri3d badge but instead relies solely on the us of a [TNY, QT Py or XIAO board](https://github.com/adafruit/awesome-qt-py). For the workshop during [Fri3d Camp](https://fri3d.be/) we opted for the [LANA TNY](https://phyx.be/LANA_TNY/).
+
+There is an issue with the LEDs, when pushed too far in the footprint they tend to break. In order to prevent damaging the LEDs we sugges mounting only 6 on the bottom and use them for underglow.
+
+![Fully Assembled board with keycaps and case](media/rev02.gif)
+
+![Fully Assembled board with keycaps](media/rev02_done.png)
+
+
+# Fri3d_Sweet4x4 REV01
 
 ## About
 The progress and more details about this project can be found on [Hackaday.io](https://hackaday.io/project/186574-sweet-4x4)
