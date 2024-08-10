@@ -1,0 +1,86 @@
+*************************************************************
+FileName = Sweet4x4_02.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\dielectric1\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\dielectric1\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_315\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_225\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_135\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_45\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_315\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_225\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_135\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\Sweet4x4_02\.\OUTPUT\ODB\odb\symbols\uds_rect981.99956x1849.99884_45\features
+

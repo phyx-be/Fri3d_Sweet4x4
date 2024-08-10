@@ -1,0 +1,44 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:57:46 On 31/07/2024
+
+Output: ODB++ Files
+Type  : ODB
+From  : PCB Document [Sweet4x4_02.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[Sweet4x4_02.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 11:57:49 On 31/07/2024
