@@ -1,6 +1,11 @@
 # Sweet4x4 REV02
 
-[Manual on how to assemble can be found here](https://fri3dcamp.github.io/badge_2024/sweet4x4/) Revision `02` no longer requires the Fri3d badge but instead relies solely on the us of a [TNY, QT Py or XIAO board](https://github.com/adafruit/awesome-qt-py). For the workshop during [Fri3d Camp](https://fri3d.be/) we opted for the [LANA TNY](https://phyx.be/LANA_TNY/).
+[Manual on how to assemble can be found here](https://fri3dcamp.github.io/badge_2024/sweet4x4/) Revision `02` no longer requires the Fri3d badge but instead relies solely on the us of a [TNY, QT Py or XIAO board](https://github.com/adafruit/awesome-qt-py). For future workshops we plan to use the [LANA TNY](https://phyx.be/LANA_TNY/). The workshop during [Fri3d Camp](https://fri3d.be/) will be done with a XIAO RP2040. 
+
+
+## Firmare
+LANA_TNY firmware is still underway.
+For the Fri3d Camp workshop we opted for RP2040. An example using [KMK](https://kmkfw.io/) can be found in this repository.
 
 There is an issue with the LEDs, when pushed too far in the footprint they tend to break. In order to prevent damaging the LEDs we sugges mounting only 6 on the bottom and use them for underglow.
 
