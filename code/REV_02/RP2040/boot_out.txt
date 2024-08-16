@@ -1,0 +1,7 @@
+Adafruit CircuitPython 8.2.0 on 2023-07-05; Seeeduino XIAO RP2040 with rp2040
+Board ID:seeeduino_xiao_rp2040
+UID:4250304232373714
+boot.py output:
+Traceback (most recent call last):
+  File "boot.py", line 3, in <module>
+AttributeError: 'module' object has no attribute 'set_next_stack_limit'
